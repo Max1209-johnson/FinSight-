@@ -1,6 +1,8 @@
 # FinSight-
 FinSight is  user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
+![](FinSight.jpg)
+
 ## Features
 
 - Load URLs or upload text files containing URLs to fetch article content.
@@ -12,5 +14,4 @@ FinSight is  user-friendly news research tool designed for effortless informatio
 
 - main.py: The main Streamlit application script.
 - requirements.txt: A list of required Python packages for the project.
-- faiss_store_openai.pkl: A pickle file to store the FAISS index.
 - .env: Configuration file for storing your OpenAI API key.
